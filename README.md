@@ -8,7 +8,7 @@ to my satisfication.
 This plugin can run multiple web application on the single Tomcat
 instance. That is the main feature of this plugin.
 
-This plugin is designed to use under a multi-project layout.
+This plugin is designed to be used as part of a multi-project layout.
 
 Usage
 -----
